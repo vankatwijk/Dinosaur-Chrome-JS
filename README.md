@@ -4,7 +4,7 @@ dinosaur game
 
 # Project Description
 
-Chrome dinosaur game greated with javascript and css
+Chrome dinosaur game created with javascript and css
 
 ## Authors
 
